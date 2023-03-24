@@ -1,6 +1,6 @@
 # Ryan Maeland
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with Sanity.io as the CMS.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with [Sanity.io](https://sanity.io) as the CMS.
 
 # About
 
